@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey, I'm Milan Srinivas</h1>
-<h3 align="center">Full-Stack Developer | AI/ML Explorer | MSCS @ Northeastern | Based in Boston</h3>
+<h3 align="center">Software Developer | AI/ML Explorer | MSCS @ Northeastern Boston</h3>
 
 <p align="center">
   <img src="https://github.com/WATERMELONBOSS/WATERMELONBOSS/blob/main/coding-duck.gif?raw=true" width="300" alt="Coding Duck GIF" />
@@ -84,10 +84,10 @@ Here's what I'm fluent in and use regularly across projects and internships:
   <a href="mailto:milansrinivas@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://milansrinivas.github.io" target="_blank">
+<!--   <a href="https://milansrinivas.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 ---
 
