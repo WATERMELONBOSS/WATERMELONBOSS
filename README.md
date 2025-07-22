@@ -1,13 +1,10 @@
-[![GitArt](https://github.com/milansrinivas/milansrinivas/blob/main/gitartwork.svg)](https://github.com/rahuldkjain/github-profile-readme-generator)
 
-<h1 align="center">Hi, I'm Milan Srinivas</h1>
-<h3 align="center">Full-Stack Developer | AI & Data Enthusiast | MSCS @ Northeastern | Building systems that think and scale</h3>
+<h1 align="center">Hey, I'm Milan Srinivas</h1>
+<h3 align="center">Full-Stack Developer | AI/ML Explorer | MSCS @ Northeastern | Based in Boston</h3>
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif" width="600" alt="Milan coding GIF" />
+  <img src="https://github.com/WATERMELONBOSS/WATERMELONBOSS/blob/main/coding-duck.gif?raw=true" width="300" alt="Coding Duck GIF" />
 </p>
-
----
 
 ### 🧭 About Me
 
